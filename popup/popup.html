@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>popup.html</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="popup-body">
+      <div class="popup-body-container">
+        <div class="search-field-container">
+          <input
+            class="field def-font search-controls-container"
+            id="search-field"
+            type="text"
+            name="search"
+            autocomplete="off"
+          />
+          <input id="is-regex" type="checkbox" />
+          <label for="is-regex" class="is-regex-label">RegEx</label>
+          <input id="is-case-sensitive" type="checkbox" />
+          <label for="is-case-sensitive">Case sensitive</label>
+        </div>
+      </div>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>
