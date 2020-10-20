@@ -3,7 +3,8 @@
 Today most of the most popular sites such as Facebook, Twitter and Reddit use infinite scroll but the search feature stayed the same as it was back in the 90s.
 
 Ever found yourself clicking enter in the search bar every time you scrolled more?
-Ever found yourself expanding more and more log windows only to click search again and again?
+
+Ever found yourself expanding more and more log windows in the middle of the night only to click search again and again?
 
 Well you don't have to do this anymore with Infinite Search!
 
