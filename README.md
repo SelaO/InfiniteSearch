@@ -9,8 +9,8 @@ Ever found yourself expanding more and more log windows in the middle of the nig
 Well you don't have to do this anymore with Infinite Search!
 
 ## Features
-* Search that stays on infinitly so they will always highlight
-* RegEx search with the above feature
+* Search that stays on infinitly so every new match will highlight
+* RegEx search that works with the above feature
 
 ## Ways to use: 
 * Click the omnibar (url bar) or press F6, and then type "sc"
