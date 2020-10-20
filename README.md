@@ -1,22 +1,26 @@
-# Infinite search for infinite scroll (but not only).
+# Infinite search for infinite scroll (but not only)
 
-Ever found yourself clicking pressing enter every time you scrolled?
+Today most of the most popular sites such as Facebook, Twitter and Reddit use infinite scroll but the search feature stayed the same as it was back in the 90s.
+
+Ever found yourself clicking enter in the search bar every time you scrolled more?
 Ever found yourself expanding more and more log windows only to click search again and again?
 
 Well you don't have to do this anymore with Infinite Search!
 
+## Features
+* Search that stays on infinitly so they will always highlight
+* RegEx search with the above feature
 
 ## Ways to use: 
-
-* click the omnibar (url bar) or press F6, and then type "sc"
-  then type whatever you want to search for
-* click the extension and enter your search, it will start searching as you type
-  it's possible to use regex and have case insenstivity
+* Click the omnibar (url bar) or press F6, and then type "sc"
+  Then type whatever you want to search for
+* Click the extension's icon and enter your search, it will start searching as you type
+  It's possible to use regex and have case insenstivity
 * TBD: press ctrl+shift+f and the search window will open
 
 
 #### TODO:
 * Have the input in focus when the popup shows up
-* maybe add flashing to words that come into view as you scroll
-* make ctrl+shift+f work
-  
+* Maybe add flashing to words that come into view as you scroll
+* Make ctrl+shift+f work
+* Save queries
