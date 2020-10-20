@@ -1,4 +1,4 @@
-# Infinite search for infinite scroll (but not only)
+# Infinite search for infinite scroll (and not only)
 
 Today most of the most popular sites such as Facebook, Twitter and Reddit use infinite scroll but the search feature stayed the same as it was back in the 90s.
 
