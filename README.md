@@ -25,3 +25,4 @@ Well you don't have to do this anymore with Infinite Search!
 * Maybe add flashing to words that come into view as you scroll
 * Make ctrl+shift+f work
 * Save queries
+* use icons instead of words
